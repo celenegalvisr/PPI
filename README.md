@@ -1,20 +1,30 @@
-# React + Vite
+# EMPLEOLINK
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+EmpleoLink es una plataforma web diseñada para conectar personas, empresas y oportunidades laborales. Este manual te guiará en los pasos básicos para acceder y utilizar el sistema de manera eficiente.
 
-Currently, two official plugins are available:
+## ⚙️ Tecnologías usadas
+- React
+- Supabase
+- Vite / Create React App
+- Codespaces
+- CSS 
+- HTML 
+- Javascript
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Instalación y ejecución
+Pasos para clonar y correr el proyecto localmente o en Codespaces.
 
-# Diagramas de Proyecto
-![Mapas] (https://drive.google.com/file/d/1d_k9yssUfYhtC0sJNG78cRUn9BgrrqUa/view?usp=drive_link)
+## 🔑 Variables de entorno
+Qué variables necesita el proyecto (sin exponer las claves reales).
 
+## 📁 Estructura del proyecto
+Breve explicación de las carpetas principales.
 
-## React Compiler
+## ✨ Funcionalidades
+Lista de lo que la app permite hacer.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 👥 Autores
+Nombres del equipo.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📄 Licencia
+(opcional)
